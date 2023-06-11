@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ImageResources/.DS_Store</file>
+        <file>ImageResources/background.png</file>
+        <file>ImageResources/dial.png</file>
+        <file>ImageResources/needle.png</file>
+        <file>ImageResources/pause.png</file>
+        <file>ImageResources/play.png</file>
+        <file>ImageResources/reset.png</file>
+        <file>ImageResources/ruler_head.png</file>
+    </qresource>
+</RCC>
